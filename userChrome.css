@@ -1,0 +1,11 @@
+#TabsToolbar {
+    visibility: collapse;
+}
+
+menubar, toolbar, nav-bar, #TabsToolbar > *{
+  background-color: rgb(16,16,66) !important;
+}
+
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
+  display: none;
+}
